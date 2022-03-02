@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vodopivecgabriel@gmail.com**
 
-- 📄 I am in the final stage of a bootcamp, working with my team on the final project required for its approval. I am in the final stage of a bootcamp, working with my team on the final project required for its approval.
+- 📄 I am in the final stage of a bootcamp, working with my team on the final project required for its approval. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
