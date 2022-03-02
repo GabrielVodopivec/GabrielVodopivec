@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
 
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
+
 - 🔭 I’m currently working on [Pokemon (SPA)](https://github.com/GabrielVodopivec/Pokemon)
 
 - 📫 How to reach me **vodopivecgabriel@gmail.com**
@@ -10,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabrielvodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielvodo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel vodopivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel vodopivec" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel vodopivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="30" width="40" /></a>
 <a href="https://fb.com/gabriel vodopivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel vodopivec" height="30" width="40" /></a>
 </p>
 
