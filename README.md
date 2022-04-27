@@ -2,12 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
+  Jr. Full Stack Web Developer
+  📫 How to reach me **vodopivecgabriel@gmail.com**
 
-- 🔭 I’m currently working on [Pokemon (SPA)](https://github.com/GabrielVodopivec/Pokemon)
 
-- 📫 How to reach me **vodopivecgabriel@gmail.com**
-
-- 📄 I am in the final stage of a bootcamp, working with my team on the final project required for its approval. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
