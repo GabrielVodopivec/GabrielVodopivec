@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
-  Jr. Full Stack Web Developer
+  Jr. Full Stack Web Developer\n
   📫 How to reach me **vodopivecgabriel@gmail.com**
 
 
