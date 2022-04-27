@@ -3,12 +3,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
   <h4>Jr. Full Stack Web Developer</h4>
-  <a href="mailto:vodopivecgabriel@gmail.com"><img src="https://comaes.es/wp-content/uploads/2018/07/icono-de-mail.jpg" alt="Gabriel Vodopivec" height="30" width="40"/> Mail me </a>
+  
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:vodopivecgabriel@gmail.com"><img src="https://comaes.es/wp-content/uploads/2018/07/icono-de-mail.jpg" alt="Gabriel Vodopivec" height="30" width="40"/></a>
 <a href="https://twitter.com/gabrielvodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielvodo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-vodopivec-02aa18219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="30" width="40" /></a>
 <a href="https://fb.com/gabriel vodopivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel vodopivec" height="30" width="40" /></a>
