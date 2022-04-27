@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
   <h4>Jr. Full Stack Web Developer</h4>
-  <img src="https://www.hidronor.cl/hidronor/wp-content/uploads/2020/11/icono-mail-desktop.png" alt="Gabriel Vodopivec" height="30" width="40"/>
+  <a href="mailto:vodopivecgabriel@gmail.com"><img src="https://comaes.es/wp-content/uploads/2018/07/icono-de-mail.jpg" alt="Gabriel Vodopivec" height="30" width="40"/> Mail me </a>
 
 
 
