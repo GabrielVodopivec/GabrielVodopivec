@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:vodopivecgabriel@gmail.com"><img align="center" src="https://secom.es/wp-content/uploads/2017/07/icono-mail.png" alt="Gabriel Vodopivec" height="30" width="30"/></a>
+<a href="mailto:vodopivecgabriel@gmail.com"><img align="center" src="https://e6.pngbyte.com/pngpicture/91713/png-mail-icon-png-Blue-Mail-Icon.png" alt="Gabriel Vodopivec" height="30" width="30"/></a>
 <a href="https://twitter.com/gabrielvodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielvodo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-vodopivec-02aa18219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="30" width="40" /></a>
 <a href="https://fb.com/gabriel vodopivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel vodopivec" height="30" width="40" /></a>
