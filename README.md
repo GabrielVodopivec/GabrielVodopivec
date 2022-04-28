@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:vodopivecgabriel@gmail.com"><img align="center" src="https://www.pinpng.com/pngs/m/447-4471224_correo-electronico-logo-png-logo-de-email-png.png" alt="Gabriel Vodopivec" height="30" width="30"/></a>
+<a href="mailto:vodopivecgabriel@gmail.com"><img align="center" src="https://e7.pngegg.com/pngimages/926/59/png-clipart-gmail-outlook-com-email-google-account-computer-icons-gmail-angle-logo.png" alt="Gabriel Vodopivec" height="30" width="30"/></a>
 <a href="https://twitter.com/gabrielvodo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielvodo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-vodopivec-02aa18219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gabriel Vodopivec" height="30" width="40" /></a>
 <a href="https://fb.com/gabriel vodopivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel vodopivec" height="30" width="40" /></a>
