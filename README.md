@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Web Developer motivated by the desire to learn something new every day</h3>
-  <h4>Jr. Full Stack Web Developer</h4>
-  
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:vodopivecgabriel@gmail.com"><img align="center" src="https://www.pngmart.com/files/16/Gmail-PNG-Clipart.png" alt="Gabriel Vodopivec" height="30" width="30"/></a>
